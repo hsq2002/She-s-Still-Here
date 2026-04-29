@@ -50,6 +50,9 @@ TagManager:
   - name: Collision
     uniqueID: 11292531
     locked: 0
+  - name: Props & Objects
+    uniqueID: 2845751789
+    locked: 0
   - name: Player
     uniqueID: 3235366663
     locked: 0

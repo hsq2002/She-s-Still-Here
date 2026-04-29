@@ -8,7 +8,10 @@ public class MapTransition : MonoBehaviour
 {
     private Camera mainCam;
     [SerializeField] private Transform cameraTargetPos; // make sure z is always -10
+    [SerializeField] private float cameraTargetSize;
     [SerializeField] private Transform playerTargetPos; // make sure z is always 0
+    // [SerializeField] private Transform playerTargetDirection; // how to make this left, right, up, down
+    [SerializeField] private bool isLocked = false;
 
     // Start is called before the first frame update
     void Start()
@@ -21,12 +24,18 @@ public class MapTransition : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Player"))
         {
+            if (isLocked)
+            {
+                Debug.Log("Player is trying to enter a LOCKED door");
+                // check if player has key in inventory. if so, unlock door
+                return;
+            }
             Debug.Log("Player entered the trigger");
             FadeTransition(other.gameObject);
         }
     }
 
-    async void FadeTransition(GameObject player) // take targetcamposition as parameter
+    async void FadeTransition(GameObject player)
     {
         PauseController.SetPause(true);
         await ScreenFader.Instance.FadeOut();
@@ -36,6 +45,11 @@ public class MapTransition : MonoBehaviour
         {
             mainCam.transform.position = cameraTargetPos.position;
             Debug.Log("Camera position changed: " + mainCam.transform.position);
+            if (cameraTargetSize != 0)
+            {
+                mainCam.orthographicSize = cameraTargetSize;
+                Debug.Log("Camera size changed: " + mainCam.orthographicSize);
+            }
         }
 
         // UpdatePlayerPosition(player);
@@ -47,5 +61,6 @@ public class MapTransition : MonoBehaviour
 
         await ScreenFader.Instance.FadeIn();
         PauseController.SetPause(false);
+        Debug.Log("Player position fr" + player.transform.position);
     }
 }

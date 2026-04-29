@@ -1,0 +1,2394 @@
+fileFormatVersion: 2
+guid: da8fd413943dc6b418876c1931f8fe03
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3896400287408705956
+    second: Hotel_Outside_0
+  - first:
+      213: 7644261074481922318
+    second: Hotel_Outside_1
+  - first:
+      213: -8027070606442058813
+    second: Hotel_Outside_2
+  - first:
+      213: 6938493520765772081
+    second: Hotel_Outside_3
+  - first:
+      213: 6360553358109056948
+    second: Hotel_Outside_4
+  - first:
+      213: 4842700994839896636
+    second: Hotel_Outside_5
+  - first:
+      213: -9136696067803703616
+    second: Hotel_Outside_6
+  - first:
+      213: -7783688294864431334
+    second: Hotel_Outside_7
+  - first:
+      213: 5122676615277679742
+    second: Hotel_Outside_8
+  - first:
+      213: -6377859731274650474
+    second: Hotel_Outside_9
+  - first:
+      213: 6136115481012525039
+    second: Hotel_Outside_10
+  - first:
+      213: -4135567520655981283
+    second: Hotel_Outside_11
+  - first:
+      213: 1589580900115346454
+    second: Hotel_Outside_12
+  - first:
+      213: 8771426776410191502
+    second: Hotel_Outside_13
+  - first:
+      213: -4973070420293920478
+    second: Hotel_Outside_14
+  - first:
+      213: -4135361448131107346
+    second: Hotel_Outside_15
+  - first:
+      213: -566928855309430647
+    second: Hotel_Outside_16
+  - first:
+      213: -4140575195331923008
+    second: Hotel_Outside_17
+  - first:
+      213: -1029251976278184609
+    second: Hotel_Outside_18
+  - first:
+      213: 1710932493865176655
+    second: Hotel_Outside_19
+  - first:
+      213: -395242221598054841
+    second: Hotel_Outside_20
+  - first:
+      213: -6181194279160672361
+    second: Hotel_Outside_21
+  - first:
+      213: -6424569235133930480
+    second: Hotel_Outside_22
+  - first:
+      213: -3251557814179675737
+    second: Hotel_Outside_23
+  - first:
+      213: 811618659561263768
+    second: Hotel_Outside_24
+  - first:
+      213: -4096246397233730100
+    second: Hotel_Outside_25
+  - first:
+      213: 2583262798489043439
+    second: Hotel_Outside_26
+  - first:
+      213: 8644571539112687212
+    second: Hotel_Outside_27
+  - first:
+      213: -8070115591620809824
+    second: Hotel_Outside_28
+  - first:
+      213: 4179402738722040131
+    second: Hotel_Outside_29
+  - first:
+      213: -5852912956080169491
+    second: Hotel_Outside_30
+  - first:
+      213: 6650255488090177260
+    second: Hotel_Outside_31
+  - first:
+      213: 4654417908034561226
+    second: Hotel_Outside_32
+  - first:
+      213: 3745629645338231368
+    second: Hotel_Outside_33
+  - first:
+      213: 8975174142964512420
+    second: Hotel_Outside_34
+  - first:
+      213: -3744628266140377309
+    second: Hotel_Outside_35
+  - first:
+      213: -4914665552672466138
+    second: Hotel_Outside_36
+  - first:
+      213: 8057179743968740864
+    second: Hotel_Outside_37
+  - first:
+      213: 9065342560035404219
+    second: Hotel_Outside_38
+  - first:
+      213: 8274832787183753682
+    second: Hotel_Outside_39
+  - first:
+      213: -4320831174347861545
+    second: Hotel_Outside_40
+  - first:
+      213: 4391481157176104390
+    second: Hotel_Outside_41
+  - first:
+      213: -7921769021286125086
+    second: Hotel_Outside_42
+  - first:
+      213: -8613500941766771812
+    second: Hotel_Outside_43
+  - first:
+      213: 1779498290104001394
+    second: Hotel_Outside_44
+  - first:
+      213: 5055790452694655158
+    second: Hotel_Outside_45
+  - first:
+      213: -6603353393899574891
+    second: Hotel_Outside_46
+  - first:
+      213: -1320279317323044227
+    second: Hotel_Outside_47
+  - first:
+      213: -7734200357545753574
+    second: Hotel_Outside_48
+  - first:
+      213: -4871740409526612364
+    second: Hotel_Outside_49
+  - first:
+      213: 1191724895142601150
+    second: Hotel_Outside_50
+  - first:
+      213: -4186176902904040579
+    second: Hotel_Outside_51
+  - first:
+      213: -4890444888276319929
+    second: Hotel_Outside_52
+  - first:
+      213: -2508479857308255596
+    second: Hotel_Outside_53
+  - first:
+      213: 1166908678150247891
+    second: Hotel_Outside_54
+  - first:
+      213: -7371807818087125991
+    second: Hotel_Outside_55
+  - first:
+      213: -4740687850623599783
+    second: Hotel_Outside_56
+  - first:
+      213: 588986946282033181
+    second: Hotel_Outside_57
+  - first:
+      213: 1894600476444941080
+    second: Hotel_Outside_58
+  - first:
+      213: 6654355309761179697
+    second: Hotel_Outside_59
+  - first:
+      213: -8765036118131853332
+    second: Hotel_Outside_60
+  - first:
+      213: -1202294237394179381
+    second: Hotel_Outside_61
+  - first:
+      213: -6448779199149253811
+    second: Hotel_Outside_62
+  - first:
+      213: 5262658339252362321
+    second: Hotel_Outside_63
+  - first:
+      213: 8941076451099904153
+    second: Hotel_Outside_64
+  - first:
+      213: 3777524800898417626
+    second: Hotel_Outside_65
+  - first:
+      213: -2547812380869937047
+    second: Hotel_Outside_66
+  - first:
+      213: -2411656062646731599
+    second: Hotel_Outside_67
+  - first:
+      213: -7667226027333030707
+    second: Hotel_Outside_68
+  - first:
+      213: 8274599883602223122
+    second: Hotel_Outside_69
+  - first:
+      213: -7767163893330071781
+    second: Hotel_Outside_70
+  - first:
+      213: 1764595029609688840
+    second: Hotel_Outside_71
+  - first:
+      213: -7192411244372479797
+    second: Hotel_Outside_72
+  - first:
+      213: -915623815617909686
+    second: Hotel_Outside_73
+  - first:
+      213: 8864895239675510173
+    second: Hotel_Outside_74
+  - first:
+      213: -3397743338212300487
+    second: Hotel_Outside_75
+  - first:
+      213: 5268891592427059864
+    second: Hotel_Outside_76
+  - first:
+      213: 9024942636033857579
+    second: Hotel_Outside_77
+  - first:
+      213: -1790362899255118284
+    second: Hotel_Outside_78
+  - first:
+      213: -6238045150140379692
+    second: Hotel_Outside_79
+  - first:
+      213: -8343663314670736315
+    second: Hotel_Outside_80
+  - first:
+      213: -3026219607852661214
+    second: Hotel_Outside_81
+  - first:
+      213: 8324752770130122828
+    second: Hotel_Outside_82
+  - first:
+      213: -3508453945265057932
+    second: Hotel_Outside_83
+  - first:
+      213: 2362548351125390584
+    second: Hotel_Outside_84
+  - first:
+      213: 2362864207138167430
+    second: Hotel_Outside_85
+  - first:
+      213: -2651097773348672238
+    second: Hotel_Outside_86
+  - first:
+      213: 2046630069509313211
+    second: Hotel_Outside_87
+  - first:
+      213: 1802556140606559527
+    second: Hotel_Outside_88
+  - first:
+      213: -716096979761404321
+    second: Hotel_Outside_89
+  - first:
+      213: 3625902466465794534
+    second: Hotel_Outside_90
+  - first:
+      213: 5517546003018099782
+    second: Hotel_Outside_91
+  - first:
+      213: 5962795953235587210
+    second: Hotel_Outside_92
+  - first:
+      213: 1595100922859363572
+    second: Hotel_Outside_93
+  - first:
+      213: 5987584390562218534
+    second: Hotel_Outside_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hotel_Outside_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 744
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e264625943de9c0800000000000000
+      internalID: -3896400287408705956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 740
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0147da32fed51a60800000000000000
+      internalID: 7644261074481922318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 736
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbaa0c00dd1a9090800000000000000
+      internalID: -8027070606442058813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 736
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131e79d681b7a4060800000000000000
+      internalID: 6938493520765772081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 733
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf120d5499354850800000000000000
+      internalID: 6360553358109056948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_5
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 625
+        width: 98
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32ecd6a5eab43340800000000000000
+      internalID: 4842700994839896636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_6
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 620
+        width: 98
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c61ad9a55fe33180800000000000000
+      internalID: -9136696067803703616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 729
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a175d3e4cb8caf390800000000000000
+      internalID: -7783688294864431334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 723
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7493d09d37671740800000000000000
+      internalID: 5122676615277679742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 726
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c2b12ad5a4d77a0800000000000000
+      internalID: -6377859731274650474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 718
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7d68af48cd72550800000000000000
+      internalID: 6136115481012525039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 697
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1548aa40438b96c0800000000000000
+      internalID: -4135567520655981283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 695
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614fe1d18635f0610800000000000000
+      internalID: 1589580900115346454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_13
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 695
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86774d1e2e5ab970800000000000000
+      internalID: 8771426776410191502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_14
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 695
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229d06b1dca1cfab0800000000000000
+      internalID: -4973070420293920478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_15
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 695
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5ec4a4cae3c96c0800000000000000
+      internalID: -4135361448131107346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_16
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 559
+        width: 95
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980dc56b53dd128f0800000000000000
+      internalID: -566928855309430647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 691
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3727c2cc8b986c0800000000000000
+      internalID: -4140575195331923008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 683
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5de191e7cc57b1f0800000000000000
+      internalID: -1029251976278184609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 691
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ec18bc9047eb710800000000000000
+      internalID: 1710932493865176655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 675
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74669652b41d38af0800000000000000
+      internalID: -395242221598054841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_21
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 684
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f83fe6d8cf73aa0800000000000000
+      internalID: -6181194279160672361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_22
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 575
+        width: 88
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01460f8c15857d6a0800000000000000
+      internalID: -6424569235133930480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 503
+        width: 127
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1cc2f356520e2d0800000000000000
+      internalID: -3251557814179675737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_24
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 636
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8925a38eed2734b00800000000000000
+      internalID: 811618659561263768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_25
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 653
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccde864ca953727c0800000000000000
+      internalID: -4096246397233730100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_26
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 649
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1cb6914d799d320800000000000000
+      internalID: 2583262798489043439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_27
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 645
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6673409300b7f770800000000000000
+      internalID: 8644571539112687212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_28
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 645
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aba91170a0310090800000000000000
+      internalID: -8070115591620809824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_29
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 642
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34962deb5a8300a30800000000000000
+      internalID: 4179402738722040131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_30
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 640
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded5f8f2da646cea0800000000000000
+      internalID: -5852912956080169491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_31
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 630
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceef431c1247a4c50800000000000000
+      internalID: 6650255488090177260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_32
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 638
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4ed9c5d60d79040800000000000000
+      internalID: 4654417908034561226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_33
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 632
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842ce8631562bf330800000000000000
+      internalID: 3745629645338231368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_34
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 635
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6bbac94593e8c70800000000000000
+      internalID: 8975174142964512420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_35
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 627
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fd0dc8e68680cc0800000000000000
+      internalID: -3744628266140377309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_36
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 602
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bdb1708b99bcbb0800000000000000
+      internalID: -4914665552672466138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_37
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 538
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006cab2d94ad0df60800000000000000
+      internalID: 8057179743968740864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_38
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 575
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9f32237019ecd70800000000000000
+      internalID: 9065342560035404219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_39
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 467
+        width: 218
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9d7d7f39c16d270800000000000000
+      internalID: 8274832787183753682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_40
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 549
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1df8e80f25904c0800000000000000
+      internalID: -4320831174347861545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_41
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 523
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c59d4b68dca1fc30800000000000000
+      internalID: 4391481157176104390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_42
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 528
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1fb85eb09301290800000000000000
+      internalID: -7921769021286125086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_43
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 479
+        width: 33
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bbf7d9782b67880800000000000000
+      internalID: -8613500941766771812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_44
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 557
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2736014444c02b810800000000000000
+      internalID: 1779498290104001394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_45
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 542
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b02da741a6c92640800000000000000
+      internalID: 5055790452694655158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_46
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 533
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599ee36031d2c54a0800000000000000
+      internalID: -6603353393899574891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 486
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a2aaeb4fc6dade0800000000000000
+      internalID: -1320279317323044227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_48
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 496
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1449ca90c99aa490800000000000000
+      internalID: -7734200357545753574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_49
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 486
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e004cb8e9146cb0800000000000000
+      internalID: -4871740409526612364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_50
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 490
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1e6f46a7bd98010800000000000000
+      internalID: 1191724895142601150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_51
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 479
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73b57f3946b7e5c0800000000000000
+      internalID: -4186176902904040579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_52
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 479
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7414aa8e846a12cb0800000000000000
+      internalID: -4890444888276319929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 432
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a3bea3cd6103dd0800000000000000
+      internalID: -2508479857308255596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_54
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 432
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5577e9241b13010800000000000000
+      internalID: 1166908678150247891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_55
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 432
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c2872d8d312b990800000000000000
+      internalID: -7371807818087125991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_56
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 432
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bf1906481b53eb0800000000000000
+      internalID: -4740687850623599783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_57
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 439
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d109b7ec1808c2800800000000000000
+      internalID: 588986946282033181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_58
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 438
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b59c56819fa4a10800000000000000
+      internalID: 1894600476444941080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_59
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 438
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130bc8fd5e4095c50800000000000000
+      internalID: 6654355309761179697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_60
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 439
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce73847f6165c5680800000000000000
+      internalID: -8765036118131853332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_61
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 453
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcaee98d2c7905fe0800000000000000
+      internalID: -1202294237394179381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_62
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 453
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bd7c74c755186a0800000000000000
+      internalID: -6448779199149253811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_63
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 453
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c526570e7b80940800000000000000
+      internalID: 5262658339252362321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_64
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 454
+        width: 44
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9988b6119a5151c70800000000000000
+      internalID: 8941076451099904153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_65
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 451
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad347cfcac67c6430800000000000000
+      internalID: 3777524800898417626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_66
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 450
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968b7e3732a54acd0800000000000000
+      internalID: -2547812380869937047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 383
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc3689a693188ed0800000000000000
+      internalID: -2411656062646731599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_68
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 451
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc6f240d8a889590800000000000000
+      internalID: -7667226027333030707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_69
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 361
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2106990e0c845d270800000000000000
+      internalID: 8274599883602223122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_70
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 361
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f22d9579d753490800000000000000
+      internalID: -7767163893330071781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_71
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 361
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f2e4884d91d7810800000000000000
+      internalID: 1764595029609688840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_72
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 361
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc037ac841c6f2c90800000000000000
+      internalID: -7192411244372479797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_73
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 383
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ce43aadfc0b43f0800000000000000
+      internalID: -915623815617909686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_74
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 383
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9df8e3904f660b70800000000000000
+      internalID: 8864895239675510173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_75
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 374
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939e7e79f6ac8d0d0800000000000000
+      internalID: -3397743338212300487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_76
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 348
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a38aeccfcde1940800000000000000
+      internalID: 5268891592427059864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_77
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 353
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b285313e2890f3d70800000000000000
+      internalID: 9024942636033857579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_78
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 353
+        width: 90
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4363cdacd6a5727e0800000000000000
+      internalID: -1790362899255118284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_79
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 360
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddc80d8cf20e69a0800000000000000
+      internalID: -6238045150140379692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_80
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 260
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ca7930c6a553c80800000000000000
+      internalID: -8343663314670736315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_81
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 261
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226ce9ddc45b006d0800000000000000
+      internalID: -3026219607852661214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_82
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 191
+        width: 146
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c481e8ab986778370800000000000000
+      internalID: 8324752770130122828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_83
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 239
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f88a1b9b77f4fc0800000000000000
+      internalID: -3508453945265057932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_84
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 258
+        width: 90
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f48381453579c020800000000000000
+      internalID: 2362548351125390584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_85
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 257
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a94f63a749ac020800000000000000
+      internalID: 2362864207138167430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_86
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 256
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d29ba0f98653bd0800000000000000
+      internalID: -2651097773348672238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_87
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 256
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb25cb76437176c10800000000000000
+      internalID: 2046630069509313211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_88
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 191
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7259d807247f30910800000000000000
+      internalID: 1802556140606559527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_89
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 179
+        width: 111
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5667984799ef06f0800000000000000
+      internalID: -716096979761404321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_90
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 27
+        width: 28
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e908e7151bc15230800000000000000
+      internalID: 3625902466465794534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_91
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 27
+        width: 28
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c25c54bd2429c40800000000000000
+      internalID: 5517546003018099782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_92
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 85
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a807eb4c35b10c250800000000000000
+      internalID: 5962795953235587210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_93
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 47
+        width: 194
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc1eef86dfe22610800000000000000
+      internalID: 1595100922859363572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hotel_Outside_94
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 61
+        width: 111
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6228226974c281350800000000000000
+      internalID: 5987584390562218534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
