@@ -466,7 +466,22 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hotel_Bonus_0: 2015992139131317473
+      Hotel_Bonus_1: 6939954539331585452
+      Hotel_Bonus_10: 1160055264159344606
+      Hotel_Bonus_11: -336341805400229729
+      Hotel_Bonus_12: 3705939838431499507
+      Hotel_Bonus_13: 7794834323466095628
+      Hotel_Bonus_14: -8713748617988920394
+      Hotel_Bonus_2: -758829007891311273
+      Hotel_Bonus_3: -7373216638983482097
+      Hotel_Bonus_4: -5593496693256207238
+      Hotel_Bonus_5: -246659454494187530
+      Hotel_Bonus_6: 1436298050708008672
+      Hotel_Bonus_7: -8460818946128397600
+      Hotel_Bonus_8: -3653668075183012854
+      Hotel_Bonus_9: 5362944658524259429
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
