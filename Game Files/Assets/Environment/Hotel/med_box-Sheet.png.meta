@@ -226,7 +226,12 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      med_box-Sheet_0: -5218022344390455098
+      med_box-Sheet_1: 8123668271120906540
+      med_box-Sheet_2: -4651928495975654404
+      med_box-Sheet_3: -1616356361388657288
+      med_box-Sheet_4: 4403989691205504245
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
